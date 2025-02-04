@@ -9,9 +9,9 @@
   <div class="contenedor">
     <h1>¡Feliz San Valentín!</h1>
     <img src="angel.png" alt="Ángel" class="angel">
-    <p>Querida [nombre],</p>
+    <p>Para: Lizeth,</p>
     <p>Espero que este día sea tan especial como tú.</p>
-    <p>Con amor, [tu nombre]</p>
+    <p>Con amor, Charles</p>
     <button class="boton-rosas">¡Haz clic para ver las rosas!</button>
   </div>
   <div class="rosas" style="display: none;">
